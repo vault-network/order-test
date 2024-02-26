@@ -1,0 +1,30 @@
+**/bin
+**/obj
+**/node_modules
+**/.vs
+**/.user
+**/*.csproj.user
+**/packages
+**/*.js.map
+**/fontAwesome/**/*.css
+**/*.css.map
+/VaultN.Portal.Core/Properties
+/VaultN.Portal.Core/.config
+**/serviceAccountCredentials.json
+**/PublishProfiles/**
+/output
+*.pubxml
+**/.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.VaultN-Order-Console.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml

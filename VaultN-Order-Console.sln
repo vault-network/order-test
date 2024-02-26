@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultN-Order-Console", "VaultN-Order-Console\VaultN-Order-Console.csproj", "{89F0A957-8F64-4A0F-97D8-6A6FD94F030F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F0A957-8F64-4A0F-97D8-6A6FD94F030F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F0A957-8F64-4A0F-97D8-6A6FD94F030F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F0A957-8F64-4A0F-97D8-6A6FD94F030F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F0A957-8F64-4A0F-97D8-6A6FD94F030F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
